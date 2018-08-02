@@ -1,10 +1,8 @@
-#from sklearn.feature_extraction.text import CountVectorizer
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from decimal import *
 from collections import Counter
 from collections import OrderedDict
 from string import digits
-#import pandas as pd
 import csv
 import re
 import string
